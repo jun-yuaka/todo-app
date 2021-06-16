@@ -21,6 +21,10 @@ button:hover {
   cursor: pointer;
 }
 
+li {
+  list-style: none;
+}
+
 .input-area {
   background-color: #c1ffff;
   width: 400px;
